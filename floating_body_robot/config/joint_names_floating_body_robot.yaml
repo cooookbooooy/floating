@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'right_back_ud_joint', 'left_back_ud_joint', 'left_front_ud_joint', 'right_front_ud_joint', 'left_front_fb_joint', 'right_front_fb_joint', 'left_back_fb_joint', 'right_back_fb_joint', ]
